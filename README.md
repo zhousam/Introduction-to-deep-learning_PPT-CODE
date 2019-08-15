@@ -7,7 +7,8 @@ The py files under folder "project" is the experiment explained in the PPT. Most
 
 For example:
 
-Function fitting by using neural network。
+Function fitting by using neural network.
+
 Identification of mnist numbers by using fully-connected network / CNN.
 
 
