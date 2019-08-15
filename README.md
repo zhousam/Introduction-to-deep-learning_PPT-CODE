@@ -11,3 +11,5 @@ Function fitting by using neural network。
 Identification of mnist numbers by using fully-connected network / CNN.
 
 
+
+（If there is any infringement, please contact and delete it immediately.）
